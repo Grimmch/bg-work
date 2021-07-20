@@ -2771,6 +2771,12 @@ textarea#exampleFormControlTextarea1 {
 }
 
 @media (max-width: 767px) {
+  .contact-columns {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 15px 0 15px 0;
+  }
   .btn-lastsection {
     display: none;
   }

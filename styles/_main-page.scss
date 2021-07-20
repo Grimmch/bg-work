@@ -2437,8 +2437,15 @@ textarea#exampleFormControlTextarea1 {
   }
 }
 @media (max-width: 767px) {
+  .contact-columns
+  {
+    align-items: center;
+    padding: $cicle-padding;
+
+  }
   .btn-lastsection
-  {display: none;}
+  {display: none;
+  }
   .card-case_col-1, .card-case_col-2, .card-case_col-3, .card-case_col-4, .card-case_col-5, .card-case_col-6 {
     width: 100%;
     border-right: none;
