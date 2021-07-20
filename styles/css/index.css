@@ -407,11 +407,6 @@ li {
   align-self: center;
 }
 
-/*bgc*/
-.bgc-main {
-  background-color: #F5F5FA;
-}
-
 .bgc-white {
   background-color: #fff;
 }
@@ -732,11 +727,6 @@ li {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-}
-
-/*bgc*/
-.bgc-main {
-  background-color: #F5F5FA;
 }
 
 .bgc-white {
@@ -1616,6 +1606,10 @@ img.shade-last {
   position: relative;
 }
 
+.container--footer {
+  padding: 0 15px 0 15px;
+}
+
 .section-fourone {
   padding: 50px 0 50px 0;
 }
@@ -2074,7 +2068,7 @@ input.btn-primary:hover {
 
 .about-right-row2 {
   max-width: 412px;
-  padding: 0 15px;
+  padding: 0 15px 0 15px;
 }
 
 .about-content__wrap {
@@ -2761,7 +2755,7 @@ textarea#exampleFormControlTextarea1 {
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 998px) {
   .main-nav .navbar-light .navbar-toggler-icon {
     background-image: url("../../assets/logos/menu.svg");
   }
@@ -2899,7 +2893,22 @@ textarea#exampleFormControlTextarea1 {
   }
 }
 
+@media (min-width: 992x) and (max-width: 1049) {
+  .d-mob {
+    display: none;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
+  .culm-padding {
+    padding: 15px 0 15px 0;
+  }
+  .flexdmdie {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
   .tb-s2-h a {
     font-size: 30px;
     line-height: 38px;
@@ -3069,8 +3078,14 @@ textarea#exampleFormControlTextarea1 {
 
 @media (max-width: 1220px) {
   img.team-img-new {
-    width: 80%;
+    width: 98%;
     padding: 15px;
+  }
+  .padd {
+    padding: 0 15px 0 15px;
+  }
+  .circle {
+    margin: 0 15px 0 15px;
   }
 }
 

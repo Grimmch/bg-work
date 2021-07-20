@@ -75,10 +75,6 @@ li {
       align-self: center;
 }
 
-/*bgc*/
-.bgc-main {
-  background-color: #F5F5FA;
-}
 
 .bgc-white {
   background-color: #fff;
@@ -400,11 +396,6 @@ li {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
-}
-
-/*bgc*/
-.bgc-main {
-  background-color: #F5F5FA;
 }
 
 .bgc-white {
@@ -1284,6 +1275,9 @@ img.shade-last {
   position: relative;
 }
 
+.container--footer {
+  padding: $common-padding;
+}
 .section-fourone {
   padding: 50px 0 50px 0;
 }
@@ -1961,6 +1955,7 @@ input.btn-primary:hover {
   .card-about-invisible {
     display: none;
   }
+  
   .achv-item1 {
     -ms-flex-item-align: center;
     -ms-grid-row-align: center;
@@ -2428,7 +2423,7 @@ textarea#exampleFormControlTextarea1 {
   }
 
 }
-@media  (max-width: 991px) {
+@media  (max-width: 998px) {
   .main-nav .navbar-light .navbar-toggler-icon {
     background-image: url("../../assets/logos/menu.svg");
   }
@@ -2562,11 +2557,24 @@ textarea#exampleFormControlTextarea1 {
     padding: 0;
   }
 }
+@media (min-width: 992x) and (max-width: 1049)
+{
+.d-mob{
+  display: none;
+}
+}
 @media (min-width: 768px) and (max-width: 991px) {
+  .culm-padding
+  { 
+    padding: $cicle-padding;
+  }
+  .flexdmdie
+  {flex-direction: column;}
   .tb-s2-h a {
     font-size: 30px;
     line-height: 38px;
   }
+
   .d-mobile {
     display: none;
   }
@@ -2728,7 +2736,11 @@ textarea#exampleFormControlTextarea1 {
 @media (max-width: 1220px) 
 {
   img.team-img-new {
-    width: 80%;
+    width: 98%;
     padding: 15px;
-}
+  }
+  .padd
+  {padding: $common-padding;}
+  .circle
+  {margin: $common-margin ;}
 }
