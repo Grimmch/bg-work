@@ -740,20 +740,6 @@ li {
   line-height: 21.24px;
 }
 
-.card-text-date {
-  padding-top: 10px;
-  font-family: 'TTNormalBold', sans-serif;
-  font-weight: bold;
-  font-size: 12px;
-  color: #B3B3BA;
-}
-
-.card-text {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 22px;
-}
-
 .title-aboutpagelogo {
   font-weight: 700;
   font-size: 36px;
@@ -1036,20 +1022,6 @@ div textarea [type="comment"] {
   font-size: 18px;
   font-weight: 400;
   line-height: 21.24px;
-}
-
-.card-text-date {
-  padding-top: 10px;
-  font-family: 'TTNormalBold', sans-serif;
-  font-weight: bold;
-  font-size: 12px;
-  color: #B3B3BA;
-}
-
-.card-text {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 22px;
 }
 
 /*txt*/
