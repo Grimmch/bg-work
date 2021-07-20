@@ -1,0 +1,16 @@
+/*fonts*/
+@font-face {
+    font-family: "TTNormalRegular";
+    src: url(../../fonts/TTNorms-Regular.ttf);
+}
+@font-face {
+    font-family: "TTNormalBold";
+    src: url(../../fonts/TTNorms-Bold.ttf);
+}
+@import './vars';
+@import './common';
+@import './reset';
+@import './main-page';
+@import './about';
+@import './team';
+

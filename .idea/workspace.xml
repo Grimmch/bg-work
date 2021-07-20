@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4787a406-c95d-4263-a131-c44206911237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/achv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/achv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/achv3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/achv4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/company9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/publication1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/publication2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/publication3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/publication4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/publication5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/team6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/teamabout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/teamabout2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Descriptor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Descriptorb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Ellipse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Frame.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Logo on Dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/LogoMin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Plb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Slash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Symbol Slash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/aboutlogo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/aboutlogo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/aboutlogo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/dots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/faces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/fvec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/ib4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/icon6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/nameb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/plw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/scrolldown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/shade-last.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/shade.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/TTNorms-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/TTNorms-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/TTNorms-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_main-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/index.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vZX9GgNtD3C1NiyIpSVf8RIynJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../213/Diplom" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4787a406-c95d-4263-a131-c44206911237" name="Default Changelist" comment="" />
+      <created>1626770432603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626770432603</updated>
+      <workItem from="1626770434023" duration="5135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

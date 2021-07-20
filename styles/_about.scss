@@ -1,0 +1,237 @@
+.about-left-row{
+    max-width: 641px;
+    margin-right: 42px;
+}
+.header__wrap{
+    padding-top: 51px;
+}
+.logoh__wrap{
+    padding-top: 8px;
+}
+.container-aboutpage{
+    padding-top: 80px;
+}
+.about-right-row{
+    max-width: 412px;
+    border-left: 4px solid #E6E6F0;
+    max-height: 315px;
+}
+
+.about-right-row2{
+    max-width: 412px;
+}
+.about-content__wrap{
+    padding-left: 20px;
+}
+.about-logos__wrap{
+    padding-bottom: 10px;
+}
+.logo-aboutpage1{
+    width: 23px;
+    height: 26px;
+    align-self: center;
+    margin-right: 11px;
+}
+.logo-aboutpage2{
+    width: 25px;
+    height: 20px;
+    align-self: center;
+    margin-right: 11px;
+}
+.logo-aboutpage3{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+    margin-right: 11px;
+}
+.txt-aboutpage-small__wrap{
+    padding-bottom: 40px;
+}
+.img-teamabout{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+.teamphoto-mobile{
+    display: none;
+}
+.team-section{
+    padding-bottom: 93px;
+}
+.achievements{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.txt-achievements__wrap{
+    padding-top: 28px;
+    padding-bottom: 30px;
+}
+.cards-about{
+    padding-bottom: 30px;
+    justify-content: space-between;
+}
+.card-about{
+    max-width: 300px;
+    border-radius: 10px;
+}
+.achv-item1{
+    padding: 26px 110px 24px 110px;
+}
+.achv-item2{
+    padding: 25px 70px 24px 71px;
+}
+.achv-item3{
+    padding: 25px 52px 24px 53px;
+}
+.achv-item4{
+    padding: 25px 67px 24px 67px;
+}
+.circle-button{
+    border: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: $blue;
+    cursor: pointer;
+    opacity: 0.2;
+}
+.background-button__wrap .circle-button{
+    margin-right: 14px;
+    margin-bottom: 32px;
+}
+.background-button__wrap .circle-button:last-child{
+    margin-right: 0;
+}
+.circle-button.used{
+    opacity: 1;
+}
+.achievements__wrap{
+    border-bottom: solid 4px #E6E6F0;
+}
+.circle-button-phone{
+    display: none;
+}
+.main-nav-circle{
+    position: relative;
+}
+.main-nav-circle::before{
+    position: absolute;
+    display: block;
+    content: '';
+    left: -11px;
+    top: 8px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #E6E6F0;
+}
+.main-nav-circle2{
+    position: relative;
+}
+.main-nav-circle2::before{
+    position: absolute;
+    display: block;
+    content: '';
+    left: -15px;
+    top: 8px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #E6E6F0;
+}
+@media (max-width:376px){
+    .main-nav-circle::before{
+        display: none;
+    }
+    .container-aboutpage{
+        padding-top: 30px;
+    }
+
+    .nav-container{
+        flex-direction: row;
+        justify-content: flex-start;
+        order: -1;
+    }
+    .header__wrap{
+        padding-top: 25px;
+    }
+    .main-nav-circle2::before{
+        display: none;
+    }
+    .txt-aboutpage{
+        padding: 0 15px;
+    }
+    .txt-aboutpage-small{
+        padding: 0 15px;
+    }
+    .title-about{
+        padding: 0 15px;
+    }
+    .txt-aboutpage-small__wrap{
+        padding: 0 30px;
+    }
+    .about-right-row{
+        border-left: none;
+        border-top: 4px solid #E6E6F0;
+    }
+    .about-left-row{
+        max-width: 335px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .about-content__wrap{
+        margin-top: 15px;
+    }
+    .img-teamabout{
+        object-fit: cover;
+        display: none;
+    }
+    .teamphoto-mobile{
+        display: block;
+        padding-top: 34px;
+    }
+    .card-about-invisible{
+        display: none;
+    }
+    .achv-item1{
+        align-self: center;
+        margin-left: 57px;
+        padding: 0;
+        width: 42px;
+        height: 31px;
+    }
+    .achv-item2{
+        align-self: center;
+        margin-left: 37px;
+        padding: 0;
+        width: 82px;
+        height: 31px;
+    }
+    .card-about{
+        min-width: 157px;
+        min-height: 57px    ;
+    }
+    .cards-about{
+        justify-content: space-between;
+    }
+    .container-default-ach{
+        width: 100%;
+    }
+    .circle-button-phone{
+        display: block;
+    }
+    .title-about{
+        font-size: 32px;
+    }
+    .team-section{
+        padding-bottom: 40px;
+    }
+    .txt--footer1::before{
+        display: none;
+    }
+    .footer-link1::before{
+        display: none;
+    }
+}
