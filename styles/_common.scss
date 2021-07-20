@@ -140,11 +140,16 @@ li
 .txt{
     font-size: 16px;
     font-weight: 400;
+    &-contacts{
+        font-family: 'TTNormalBold', sans-serif;
+        font-size: 14px;
+    }
     &-whitelog{
         font-weight: normal;
   font-size: 38px;
   line-height: 45px;
   color: $white;
+
     }
     &-team{
         font-family: 'TTNormalBold', sans-serif;
@@ -193,12 +198,13 @@ li
         color: #323264;
         padding-bottom: 30px;
     }
-    &-footer-link{
+    &-footer-link, &-footer-link1{
         font-family: 'TTNormalBold', sans-serif;
         font-size: 12px;
         font-weight: 700;
         align-self: flex-end;
     }
+    
     &-footer-link2{
         font-size: 14px;
         font-weight: 700;

@@ -1523,7 +1523,9 @@ div.card-columns .card:nth-child(4) {
 div.card-columns .card:nth-child(6) {
   margin-bottom: 0;
 }
-
+.txt-contacts__wrap{
+  padding-left: 15px;
+}
 .block-shade {
   left: 0;
   top: 1100px;
@@ -2439,7 +2441,7 @@ textarea#exampleFormControlTextarea1 {
 @media (max-width: 767px) {
   .contact-columns
   {
-    align-items: center;
+    align-items: flex-start;
     padding: $cicle-padding;
 
   }
