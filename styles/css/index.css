@@ -177,6 +177,11 @@ li {
   font-weight: 400;
 }
 
+.txt-contacts {
+  font-family: 'TTNormalBold', sans-serif;
+  font-size: 14px;
+}
+
 .txt-whitelog {
   font-weight: normal;
   font-size: 38px;
@@ -239,7 +244,7 @@ li {
   padding-bottom: 30px;
 }
 
-.txt-footer-link {
+.txt-footer-link, .txt-footer-link1 {
   font-family: 'TTNormalBold', sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1828,6 +1833,10 @@ div.card-columns .card:nth-child(6) {
   margin-bottom: 0;
 }
 
+.txt-contacts__wrap {
+  padding-left: 15px;
+}
+
 .block-shade {
   left: 0;
   top: 1100px;
@@ -2744,9 +2753,9 @@ textarea#exampleFormControlTextarea1 {
 
 @media (max-width: 767px) {
   .contact-columns {
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
     padding: 15px 0 15px 0;
   }
   .btn-lastsection {
@@ -3436,13 +3445,14 @@ textarea#exampleFormControlTextarea1 {
             flex-direction: row;
     padding-bottom: 20px;
     padding-right: 0;
+    padding-left: 0;
   }
   .card-team-content {
     max-width: 157px;
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;
-    padding-left: 20px;
+    padding-left: 0px;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
@@ -3452,27 +3462,55 @@ textarea#exampleFormControlTextarea1 {
         -ms-flex-direction: row;
             flex-direction: row;
   }
-  .team-img {
+  div.team-img {
     width: 50%;
+  }
+  img.team-img-new {
+    padding: 20px 0 0 20px;
   }
   .circle {
     -webkit-box-ordinal-group: 6;
         -ms-flex-order: 5;
             order: 5;
-    -ms-flex-item-align: start;
-        align-self: flex-start;
+    -ms-flex-item-align: end;
+        align-self: flex-end;
     padding-top: 19px;
+    margin-left: 0;
   }
   .txt-team-small__wrap {
+    margin-bottom: 0;
     padding-bottom: 0;
   }
   .mobile-txt-team {
-    max-height: 22px;
+    max-width: 150px;
+    max-height: 44px;
   }
   .team-title__wrap {
-    padding-bottom: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+  }
+  .txt-team__wrap {
+    padding-top: 60px;
   }
   .footer-txt-first__wrap {
     padding-right: 0;
+  }
+  .title-publics {
+    font-family: 'TTNormalBold', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    background: #F0145A;
+    color: #F0145A;
+    display: block;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  div.col-6 {
+    padding-left: 10px;
+    padding-right: 0;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
   }
 }

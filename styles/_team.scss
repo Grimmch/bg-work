@@ -55,34 +55,62 @@
         flex-direction: row;
         padding-bottom: 20px;
         padding-right: 0;
+        padding-left: 0;
     }
     .card-team-content{
         max-width: 157px;
         align-self: center;
-        padding-left: 20px;
+        padding-left: 0px;
         flex-wrap: wrap;
     }
     .container-default-team{
         flex-direction: row;
     }
-    .team-img{
+    div.team-img{
         width: 50%;
     }
+    img.team-img-new{
+        padding: 20px 0 0 20px;
+    }
+
     .circle{
         order: 5;
-        align-self: flex-start;
+        align-self: flex-end;
         padding-top: 19px;
+        margin-left: 0;
     }
     .txt-team-small__wrap{
+        margin-bottom: 0;
         padding-bottom: 0;
     }
     .mobile-txt-team{
-        max-height: 22px;
+        max-width: 150px;
+        max-height: 44px;
     }
     .team-title__wrap{
-        padding-bottom: 20px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .txt-team__wrap{
+        padding-top: 60px;
     }
     .footer-txt-first__wrap{
         padding-right: 0;
+    }
+    .title-publics{
+        font-family: 'TTNormalBold', sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        background:$red;
+        color: $red;
+        display: block;
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    div.col-6{
+        padding-left: 10px;
+        padding-right: 0;
+        align-self: center;
     }
 }
