@@ -1718,6 +1718,7 @@ input.btn-primary:hover {
 .about-left-row {
   max-width: 641px;
   margin-right: 42px;
+  padding: 0 15px;
 }
 
 .header__wrap {
@@ -1740,6 +1741,7 @@ input.btn-primary:hover {
 
 .about-right-row2 {
   max-width: 412px;
+  padding: $common-padding;
 }
 
 .about-content__wrap {
